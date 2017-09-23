@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "ES6e.g",
+  "short_name": "ES6e.g",
+  "version": "0.1",
+  "description": "ES6 modules in webextensions",
+  "options_ui": {
+    "page": "./index.html",
+    "open_in_tab": true
+  }
+}
